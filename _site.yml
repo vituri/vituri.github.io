@@ -1,0 +1,22 @@
+name: "G. Vituri"
+output_dir: "."
+navbar:
+  title: "G. Vituri"
+  left:
+    - text: "Writing"
+      href: writing.html
+    - text: "Speaking"
+      href: speaking.html
+    - text: "Programming"
+      href: programming.html
+    - text: "Teaching"
+      href: teaching.html
+  right:
+    - icon: fa-github fa-lg
+      href: http://github.com/vituri
+    - icon: fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/guilherme-vituri/
+output:
+  html_document:
+    theme: paper
+    css: 'styles.css'

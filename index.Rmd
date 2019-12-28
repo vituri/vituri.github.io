@@ -1,0 +1,10 @@
+---
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+<!-- <img src="images/emily_2.jpg" style="width:25%; border:10px solid; margin-right: 20px" align="left"> -->
+
+R enthusiast, beginner data analyst. I graduated from Unesp (Rio Claro), MS in Mathematics and PhD in Topological Data Analysis, with a six-month period as visiting student at the Ohio State University.
+
+My full CV is available [here](http://lattes.cnpq.br/5696818169254617).

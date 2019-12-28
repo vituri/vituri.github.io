@@ -1,0 +1,1 @@
+A Graphical User Interface for the Mapper and BallMapper algorithms, made in shiny: https://github.com/vituri/mapperGUI.
